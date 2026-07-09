@@ -1,0 +1,24 @@
+{
+  "name": "portswigger-contract-triage",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "triage": "npx tsx src/triage.ts",
+    "build": "tsc",
+    "start": "node dist/triage.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.110.0",
+    "dotenv": "^17.4.2",
+    "pdf-parse": "^2.4.5"
+  },
+  "devDependencies": {
+    "@types/node": "^26.1.1",
+    "tsx": "^4.23.0",
+    "typescript": "^7.0.2"
+  }
+}

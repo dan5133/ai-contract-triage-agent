@@ -1,0 +1,38 @@
+MUTUAL NON-DISCLOSURE AGREEMENT
+
+This Mutual Non-Disclosure Agreement ("Agreement") is entered into as of 1 July 2026 between PortSwigger Ltd, a company registered in England and Wales ("Company"), and Acme Solutions Ltd ("Counterparty").
+
+1. DEFINITION OF CONFIDENTIAL INFORMATION
+"Confidential Information" means any information disclosed by either party to the other party, either directly or indirectly, in writing, orally or by inspection of tangible objects, that is designated as Confidential, Proprietary or some similar designation, including but not limited to technical data, trade secrets, know-how, research, product plans, products, services, customers, markets, software, developments, inventions, processes, formulas, technology, designs, drawings, engineering, hardware configuration information, marketing, finances or other business information.
+
+2. EXCLUSIONS FROM CONFIDENTIAL INFORMATION
+The obligations of confidentiality shall not apply to information that: (a) is or becomes generally known to the public without breach of any obligation owed to the disclosing party; (b) was known to the receiving party prior to its disclosure by the disclosing party without restriction on disclosure; (c) was independently developed by the receiving party without use of or reference to the disclosing partys Confidential Information; (d) is received from a third party without restriction.
+
+3. OBLIGATIONS OF CONFIDENTIALITY
+Each party agrees to use the Confidential Information of the other party only for the purposes of evaluating a potential business relationship between the parties. Each party agrees to protect such Confidential Information using the same degree of care it uses to protect its own confidential information of similar nature and importance, but in no event less than reasonable care.
+
+4. TERM AND TERMINATION
+This Agreement shall commence on the date first written above and shall continue in full force and effect for a period of two years unless earlier terminated by either party upon thirty days written notice to the other party.
+
+5. LIQUIDATED DAMAGES
+In the event of any breach of this Agreement, the breaching party shall pay to the non-breaching party liquidated damages in the sum of £750,000 as a genuine pre-estimate of loss, regardless of actual damages suffered. This clause has been reviewed and agreed by both parties legal counsel.
+
+6. GOVERNING LAW AND JURISDICTION
+This Agreement shall be governed by and construed in accordance with the laws of England and Wales. Each party irrevocably submits to the exclusive jurisdiction of the courts of England and Wales.
+
+7. ENTIRE AGREEMENT
+This Agreement constitutes the entire agreement between the parties with respect to the subject matter hereof and supersedes all prior and contemporaneous agreements, understandings, negotiations and discussions, whether oral or written.
+
+IN WITNESS WHEREOF the parties have executed this Agreement as of the date first written above.
+
+For and on behalf of PortSwigger Ltd:
+Signature: ___________________
+Name:
+Title:
+Date:
+
+For and on behalf of Acme Solutions Ltd:
+Signature: ___________________
+Name:
+Title:
+Date:

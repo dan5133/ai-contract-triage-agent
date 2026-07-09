@@ -1,0 +1,45 @@
+CUSTOMER ORDER FORM
+
+Order Reference: PO-2026-004421
+Date: 1 July 2026
+Customer: Meridian Digital Ltd, 45 King Street, Manchester M2 4LQ
+Supplier: PortSwigger Ltd, Knutsford, Cheshire WA16 8GH
+
+PRODUCTS ORDERED
+Product: Burp Suite Enterprise Edition
+Licence Type: Annual Subscription
+Users: 25
+Unit Price: £2,400 per user per annum
+Total Order Value: £60,000
+
+PAYMENT TERMS
+Payment due within 60 days of invoice date.
+Late payment interest will apply at 8% above Bank of England base rate.
+
+DELIVERY
+Licence keys to be delivered electronically within 5 business days of order confirmation.
+
+SERVICE LEVEL AGREEMENT
+Supplier guarantees 99.999% uptime. In the event of downtime exceeding 0.001% in any calendar month, Customer shall be entitled to terminate this Agreement immediately without penalty and receive a full refund of all sums paid.
+
+INTELLECTUAL PROPERTY
+All intellectual property created by Supplier in connection with this order, including any customisations, integrations, or derivative works, shall vest in and be owned absolutely by Customer upon creation.
+
+LIMITATION OF LIABILITY
+Neither party shall be liable for indirect or consequential loss. Supplier total liability under this Agreement is unlimited.
+
+GOVERNING AGREEMENT
+This order is subject to the Master Services Agreement dated 15 January 2025 between the parties.
+
+GOVERNING LAW
+England and Wales.
+
+Authorised Signature (Customer): ___________________
+Name:
+Title:
+Date:
+
+Authorised Signature (Supplier): ___________________
+Name:
+Title:
+Date:
