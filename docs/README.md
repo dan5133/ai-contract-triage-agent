@@ -1,4 +1,4 @@
-# PortSwigger Contract Triage
+# ai-contract-triage-agent
 ## Submitted by Adnan Siddiqi | AI Pioneer Application
 
 ## What This Is
